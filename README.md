@@ -2,6 +2,13 @@
 
 BatmanSNAP is a powerful and free tool designed specifically for Snapchat to block annoying ads effortlessly. It comes in DEB format for easy installation.
 
+
+
+
+
+
+Compatible with the latest Snapchat version (12.94.0) and UP
+
 ## Features
 - Block annoying ads on Snapchat.
 - Free and easy to install.
